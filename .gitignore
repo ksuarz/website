@@ -1,2 +1,2 @@
 # Swap files
-.sw[op]
+*.sw[op]

@@ -1,6 +1,6 @@
 body {
+    background-color:#f2fff2;
     font-family:Georgia,"sans-serif";
-    background-color:#efffef;
 }
 
 h2 {
@@ -23,9 +23,9 @@ a.visited {
 }
 
 #left {
-  width:300px;
   float:left;
   text-align:center;
+  width:300px;
 }
 
 #right {
